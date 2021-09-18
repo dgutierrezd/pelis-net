@@ -1,0 +1,12 @@
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/bin/Debug/net5.0/Proy1.Shared.deps.json
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/bin/Debug/net5.0/Proy1.Shared.dll
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/bin/Debug/net5.0/ref/Proy1.Shared.dll
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/bin/Debug/net5.0/Proy1.Shared.pdb
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/obj/Debug/net5.0/Proy1.Shared.csproj.AssemblyReference.cache
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/obj/Debug/net5.0/Proy1.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/obj/Debug/net5.0/Proy1.Shared.AssemblyInfoInputs.cache
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/obj/Debug/net5.0/Proy1.Shared.AssemblyInfo.cs
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/obj/Debug/net5.0/Proy1.Shared.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/obj/Debug/net5.0/Proy1.Shared.dll
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/obj/Debug/net5.0/ref/Proy1.Shared.dll
+/Users/macbook/Documents/Universidad/Enfasis Profesional/ProyNet/Proy1/Shared/obj/Debug/net5.0/Proy1.Shared.pdb

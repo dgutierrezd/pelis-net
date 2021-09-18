@@ -1,0 +1,44 @@
+﻿@page "/"
+
+<h1>Hello, world!</h1>
+<h1>Created by: Daniel Gutierrez 😀 </h1>
+
+<div class="card" style="width: 18rem;">
+    <img src="/Images/spidermanmovie.jpeg" class="card-img-top" alt="Spiderman">
+    <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+            content.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+    </div>
+</div>
+
+<div class="mt-5">
+    <div class="input-group flex-nowrap mb-3">
+        <input type="text" class="form-control" placeholder="Pelicula" aria-label="Pelicula">
+    </div>
+
+    <div class="input-group flex-nowrap mb-3">
+        <input type="number" class="form-control" placeholder="Calificación" aria-label="Calificacion">
+    </div>
+
+    <div class="input-group flex-nowrap mb-3">
+        <input type="number" class="form-control" placeholder="Telefono" aria-label="Telefono">
+    </div>
+</div>
+<div>
+    <label>La película es: @movie</label>
+    <div>
+        <label class="form-label">@function_convert_mayus(movie)</label>
+    </div>
+    <div>
+        <label class="form-label">@function_convert_minus(movie)</label>
+    </div>
+</div>
+
+@code {
+    public string movie = "Spiderman";
+
+    public String function_convert_mayus(string value) => value.ToUpper();
+    public String function_convert_minus(string value) => value.ToLower();
+}
